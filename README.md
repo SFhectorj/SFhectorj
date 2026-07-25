@@ -38,7 +38,7 @@ A few other noteworthy projects and experiences I’ve worked on:
 ## 📫 How to Reach Me
 
 * **Email:** baezahectorj@gmail.com
-* **LinkedIn:** [[linkedin.com/in/yourprofile](https://www.google.com/search?q=https%3A%2F%2Flinkedin.com%2Fin%2Fyourprofile)] (*link your profile URL*)
+* **LinkedIn:** [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/hectorjbaeza/)] (*link your profile URL*)
 
 
 ## ✨ Fun Fact
