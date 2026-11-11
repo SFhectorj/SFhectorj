@@ -1,44 +1,59 @@
-# Hi, I'm Hector! 👋
+# Hi, I'm Hector Baeza 👋
 
-🎓 **Computer Science Student** at Oregon State University (Class of 2028)
-🔭 **Aspiring Software Engineer** with a focus on AI/ML
+I'm a computer science student at Oregon State University (Class of 2028) and an aspiring software engineer focused on applied AI/ML and backend systems. I enjoy turning real-world problems into reliable, user-centered software through data analysis, API integrations, and thoughtful system design.
 
-I love tackling real-world problems through robust backend architecture and full-stack development. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. (Ask me about my experience as a Teaching Assistant at CodePath.org or my time as a Reporting Analyst at Accenture!) Currently, I'm focusing on building seamless API integrations and diving deeper into database design. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals—got any leads? Let me know!
+- 🎓 Computer Science at Oregon State University
+- 🤖 Break Through Tech AI Studio Fellow, Fall 2026
+- 💻 CodePath Tech Fellow
+- 🎯 Seeking software engineering and applied AI/ML internship opportunities
 
-## 🎯 Featured Project: Today - Student Lifestyle & Scheduling App (*https://github.com/SFhectorj/todayapp/blob/main/README.md*)
+## Break Through Tech AI Studio
 
-* **What We Did:** Collaborated in a three-person team to design and deploy a personalized scheduling application, successfully managing the backend integration of the Claude API and Google Calendar API.
-* **Tools:** Python, Flask, React, Postman
-* **Result:** Architected a scalable backend framework, shifting the technical design to Flask for optimized integration, and successfully executed all API connection tests ahead of deployment deadlines.
+### [Predicting Auto Claims Severity with Allstate](https://github.com/Break-Through-Tech/Allstate-1C-predicting-auto-claims-severity)
 
-*Curious? See the full project here (*https://todayapp-lime.vercel.app/*).*
+I collaborate on a regression project that uses anonymized insurance claim data to estimate a claim's final cost. My merged contributions include a programmatic data-quality audit, independent artifact verification, and leakage-resistant preprocessing pipelines for GLM and XGBoost models. The pipelines learn transformations from training data only and handle rare, unseen, and missing categorical values.
 
-## 🛠 Tech Stack
+**Tools:** Python, pandas, NumPy, scikit-learn, XGBoost, Jupyter, GitHub
 
-* **Languages:** Python, JavaScript, SQL
-* **Web Dev:** React, Flask, Node.js, Express, Handlebars
-* **Databases:** Relational Databases
-* **Tools & Concepts:** Postman, API Integration, Git, GitHub
+## Featured Projects
 
-## 🚀 Projects
+### [Hotel Cancellation Prediction](https://github.com/SFhectorj/ai-studio-tech-docs)
 
-A few other noteworthy projects and experiences I’ve worked on:
+Built a reproducible classification workflow for hotel cancellations using a 20,000-row sample dataset, leakage-aware feature preparation, a scikit-learn pipeline, and held-out evaluation.
 
-**Music Festival Organizer** (*[link your project README]*)
+**Tools:** Python, pandas, scikit-learn, joblib
 
-* Developed a complete relational database project for managing complex festival logistics.
-* **Tech Stack:** Node.js, Express, Handlebars, SQL
-* **Learnings:** Database normalization, structural specifications, and constructing complex Data Definition and Manipulation queries.
+### [PawPal+](https://github.com/SFhectorj/applied-ai-system-project)
 
-**Capital One Tech Summit Hackathon**
+Developed a Streamlit pet-care planner with priority-based scheduling, recurring tasks, conflict detection, plan explanations, and a 44-test pytest suite.
 
-* Participated in a competitive externship and hackathon, securing a 3rd-place finish alongside a dedicated student team.
-* **Learnings:** Rapid prototyping, technical collaboration, and executing software solutions under a deadline.
+**Tools:** Python, Streamlit, pytest, UML
 
-## 📫 How to Reach Me
+### [Today App](https://github.com/SFhectorj/todayapp)
 
-* **Email:** baezahectorj@gmail.com
-* **LinkedIn:** [[linkedin.com/in/hectorjbaeza](https://www.linkedin.com/in/hectorjbaeza/)] (*link your profile URL*)
+Co-developed a student lifestyle and wellness planning app. I worked on backend integration for Claude and Google Calendar APIs to support personalized daily plans.
 
+**Tools:** React, Flask, SQLite, Claude API, Google Calendar API
 
-## ✨ Fun Fact
+### [Beaver Fest Management System](https://github.com/SFhectorj/BeaverFestManagementSystem)
+
+Co-built a relational database application for managing bands, venues, managers, sponsors, and scheduled performances through CRUD workflows.
+
+**Tools:** Node.js, Express, Handlebars, MySQL
+
+## Tech Stack
+
+- **Languages:** Python, JavaScript, SQL
+- **AI & Data:** pandas, NumPy, scikit-learn, XGBoost, Jupyter
+- **Web & APIs:** React, Flask, Streamlit, Node.js, Express
+- **Databases:** MySQL, SQLite, relational database design
+- **Tools:** Git, GitHub, Postman, pytest
+
+## GitHub Activity
+
+[![Hector's GitHub activity summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SFhectorj&theme=github)](https://github.com/SFhectorj)
+
+## Connect
+
+- 📧 [baezahectorj@gmail.com](mailto:baezahectorj@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hectorjbaeza/)
